@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bộ đếm động tác</string>
+    <string name="app_title">Bộ đếm động tác</string>
+    <string name="perform">Bắt đầu đếm</string>
+    <string name="deduction">Trừ điểm</string>
+    <string name="reset">Đặt lại</string>
+    <string name="score_format">Điểm: %1$d</string>
+    <string name="element_format">Động tác: %1$d / %2$d</string>
+    <string name="routine_complete">Hoàn thành!</string>
+    <string name="deduction_taken">Đã bị trừ điểm - không thể thực hiện thêm động tác</string>
+</resources>

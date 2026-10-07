@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gymnastics App</string>
+    <string name="app_title">Gymnastics App</string>
+    <string name="perform">Perform</string>
+    <string name="deduction">Deduction</string>
+    <string name="reset">Reset</string>
+    <string name="score_format">Score: %1$d</string>
+    <string name="element_format">Element: %1$d / %2$d</string>
+    <string name="routine_complete">Routine complete!</string>
+    <string name="deduction_taken">Deduction taken - no more elements allowed</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <color name="zone_basic">#1E88E5</color>
+    <color name="zone_intermediate">#43A047</color>
+    <color name="zone_advanced">#FB8C00</color>
+</resources>
